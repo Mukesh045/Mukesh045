@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fresher Developer | BCA (76%) | ⚛️ ReactJS & 🤖 Android Enthusiast.<br>Skilled in: Python, HTML, CSS, Firebase,VSCode, Bootstrap, mongoDB and API.<br>Focus: Building responsive web apps (ReactJS) and functional Android applications, leveraging Firebase for authentication and backend.<br>Would you like a longer version to include in your profile's README, or do you need help generating content for your project repositories?
+Fresher Developer | BCA (76%) | ⚛️ ReactJS & 🤖 Android Enthusiast.<br>Skilled in: Python, HTML, CSS, Firebase,VSCode, Bootstrap, mongoDB and API.<br>Focus: Building responsive web apps (ReactJS) and functional Android applications, leveraging Firebase for authentication and backend.
 
 
 ## 🌐 Socials:
